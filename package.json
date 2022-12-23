@@ -1,0 +1,24 @@
+{
+  "name": "evenorodd",
+  "version": "1.0.0",
+  "description": "A Even or Odd program in Coffeescript",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan-Joven/evenorodd.git"
+  },
+  "author": "Ethan J",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ethan-Joven/evenorodd/issues"
+  },
+  "homepage": "https://github.com/Ethan-Joven/evenorodd#readme",
+  "dependencies": {
+    "coffee": "^5.5.0",
+    "pkg": "^5.8.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
